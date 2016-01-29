@@ -48,6 +48,8 @@ A new part has to be designed to suit its purpose. Different designs and manufac
 
 In both cases the checklist (Figure 1) should help to ensure the design process considers the necessary questions.
 
+![Figure 2]
+(https://github.com/Gongkai-AM/Machine-Guides/blob/master/Arcam%20Figure%202.png)
 
 Feature type|SLM|EBM
 ------------|---|---
