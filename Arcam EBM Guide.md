@@ -1,7 +1,7 @@
 #Arcam EBM guide
 This document is meant to introduce users to Arcam EBM manufacturing. This is a living document and work in progress, and is produced under the direction of Gongkai AM.
 
-To get more info on Gongkai or submit user documentation on Arcam or other industrial additive manufacturing machines, contact [Spencer Wright](mailto:s@pencerw.com?subject=Gongkai Guides).
+To get more info on Gongkai or submit user documentation on Arcam or other industrial additive manufacturing machines, contact [Spencer Wright](mailto:s@pencerw.com?subject=Gongkai Guides) or visit [our "How to contribute" guide.](https://github.com/Gongkai-AM/Machine-Guides/blob/master/How%20to%20contribute.md)
 
 Special thanks for this guide goes to [Stavros Tsitsopoulos,](https://www.linkedin.com/in/stavros-tsitsopoulos-a2757114) who created the intial document.
 
@@ -29,7 +29,7 @@ Cost of powder material depends on metal alloy composition. A kilogram can cost 
 To design optimum parts to be built using additive manufacturing (AM), consideration must be given to the manufacturing process. Every step downstream in the process should be considered during the design stage (even if it is being outsourced to a service bureau) to ensure a suitable outcome. If the build and post processing requirements are not considered at the design stage, redesign and rebuild of the part may be necessary and additional costs will be incurred.
 
 ![Figure 1]
-(https://github.com/Gongkai-AM/Machine-Guides/blob/master/Arcam%20Figure%201.png)
+(https://github.com/Gongkai-AM/Machine-Guides/blob/master/Figures/Arcam%20Figure%201.png)
 
 The most efficient parts are those specifically designed to be built using AM. The implications of unsuitable designs include:
 
@@ -49,7 +49,7 @@ A new part has to be designed to suit its purpose. Different designs and manufac
 In both cases the checklist (Figure 1) should help to ensure the design process considers the necessary questions.
 
 ![Figure 2]
-(https://github.com/Gongkai-AM/Machine-Guides/blob/master/Arcam%20Figure%202.png)
+(https://github.com/Gongkai-AM/Machine-Guides/blob/master/Figures/Arcam%20Figure%202.png)
 
 Feature type|SLM|EBM
 ------------|---|---
@@ -118,3 +118,6 @@ It is likely in complex or angular shapes that using only the PRS will not remov
 6. **Surface Finishing:** The surface finish required on the part can affect the design. Sometimes a standard blasted or shot peened finish is suitable. If further finishing or polishing is required, this can include:
   * **Automatic** – disc finishing, drag finishing, stream finishing, vibratory finishing, barrel finishing, pulse finishing, electropolishing, laser polishing
   * **Manual** – hand polishing, using polishing mops, wheels, hand held tools.
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
