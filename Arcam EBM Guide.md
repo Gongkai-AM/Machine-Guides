@@ -1,9 +1,9 @@
 #Arcam EBM guide
-This document is meant to introduce users to Arcam EBM manufacturing. This is a living document and work in progress, and is produced under the direction of Gemba AM.
+This document is meant to introduce users to Arcam EBM manufacturing. This is a living document and work in progress, and is produced under the direction of Gongkai AM.
 
-To get more info on Gemba or submit user documentation on Arcam or other industrial additive manufacturing machines, contact Spencer Wright at snwright@gmail.com.
+To get more info on Gongkai or submit user documentation on Arcam or other industrial additive manufacturing machines, contact [Spencer Wright](mailto:s@pencerw.com?subject=Gongkai Guides).
 
-Special thanks for this guide goes to Stavros Tsitsopoulos, who put a lot of great work into its creation and maintenance. 
+Special thanks for this guide goes to [Stavros Tsitsopoulos,](https://www.linkedin.com/in/stavros-tsitsopoulos-a2757114) who created the intial document.
 
 #Introduction
 [Arcam AB](http://www.arcam.com/) (Sweden) is a spin-off company from Gothenburg University and was founded in 1997. Arcam is the sole machine manufacturer for EBM technology. The company offers a cost efficient metal powder bed fusion technology for production of high value (often medical and aerospace) components. 
