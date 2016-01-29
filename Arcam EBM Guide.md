@@ -6,7 +6,7 @@ To get more info on Gemba or submit user documentation on Arcam or other industr
 Special thanks for this guide goes to Stavros Tsitsopoulos, who put a lot of great work into its creation and maintenance. 
 
 #Introduction
-Arcam AB (Sweden) is a spin-off company from Gothenburg University and was founded in 1997. Arcam is the sole machine manufacturer for EBM technology. The company offers a cost efficient metal powder bed fusion technology for production of high value (often medical and aerospace) components. 
+[Arcam AB](http://www.arcam.com/) (Sweden) is a spin-off company from Gothenburg University and was founded in 1997. Arcam is the sole machine manufacturer for EBM technology. The company offers a cost efficient metal powder bed fusion technology for production of high value (often medical and aerospace) components. 
 
 These machines work in a layer-by-layer process much like laser based powder bed fusion machines, but the layer thickness is typically twice the thickness of SLM/DMLS systems.
 
@@ -17,11 +17,11 @@ The electron beam is controlled by a series of magnetic coils that direct, focus
 A semi-melted block of powder, or cake, is formed around the part during the build which can be removed and reused. This cake is required to counteract the electrostatic charge build up from the electron beam, but also helps to remove residual stresses within the parts as they are built. The results of an EBM build consist of platform, parts, supports and cake. The cake is blasted away in the powder recovery process after the build and reused, leaving parts, support and platform.
 
 #Cost
-The latest offering from Arcam includes the Q10 and Q20 systems. The Q10 has a smaller building volume (200x200x180mm/7.9x7.9x7.1 inches) and is used mainly for medical parts. The Q20 utilises a cylindrical building tank (350mm diameter x 380mm high/ 13.8” diameter x 15” high) and is used for aerospace/automotive components. The cost of a Q10 is around $610,000 US, and the bigger Q20 costs $870,000 US.
+The latest offering from Arcam includes the [Q10](http://www.arcam.com/technology/products/arcam-q10/) and [Q20](http://www.arcam.com/technology/products/arcam-q20/) systems. The Q10 has a smaller building volume (200x200x180mm/7.9x7.9x7.1 inches) and is used mainly for medical parts. The Q20 utilises a cylindrical building tank (350mm diameter x 380mm high/ 13.8” diameter x 15” high) and is used for aerospace/automotive components. The cost of a Q10 is around $610,000 US, and the bigger Q20 costs $870,000 US.
 
-The system comes with a lifter mechanism to remove hoppers from the system and a PRS (powder recovery system) but more money will need to be invested for a sieving and mixing unit. Moreover, a chiller unit is needed as well as a steady helium supply (typically bottled).
+The system comes with a lifter mechanism to remove hoppers from the system and a [PRS](http://www.arcam.com/technology/products/powder-handling/) (powder recovery system) but more money will need to be invested for a sieving and mixing unit. Moreover, a chiller unit is needed as well as a steady helium supply (typically bottled).
 
-In the previous systems (A2X) preventive maintenance is required for every 400 hours of operation. This involves cleaning f the system from any metallisation that forms inside the chamber, lubricating the moving parts that control the rake mechanism and the bed as well replacing the filament (every build) and glass inner pane. The new systems are more reliable and more production ready. The filament life has been increased to about 500-700 hours of operation, a camera take pictures of every single layer; safety sensors and cooling down blocks are also installed.
+In the previous systems (the [A2X](http://www.arcam.com/technology/products/arcam-a2x-3/)) preventive maintenance is required for every 400 hours of operation. This involves cleaning f the system from any metallisation that forms inside the chamber, lubricating the moving parts that control the rake mechanism and the bed as well replacing the filament (every build) and glass inner pane. The new systems are more reliable and more production ready. The filament life has been increased to about 500-700 hours of operation, a camera take pictures of every single layer; safety sensors and cooling down blocks are also installed.
 
 Cost of powder material depends on metal alloy composition. A kilogram can cost up to $300 US. Materials include Titanium, Aluminium or cobalt-chrome. 
 
