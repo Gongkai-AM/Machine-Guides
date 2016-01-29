@@ -28,7 +28,8 @@ Cost of powder material depends on metal alloy composition. A kilogram can cost 
 #Design for EBM
 To design optimum parts to be built using additive manufacturing (AM), consideration must be given to the manufacturing process. Every step downstream in the process should be considered during the design stage (even if it is being outsourced to a service bureau) to ensure a suitable outcome. If the build and post processing requirements are not considered at the design stage, redesign and rebuild of the part may be necessary and additional costs will be incurred.
 
-((IMAGES))
+![Figure 1]
+(https://github.com/Gongkai-AM/Machine-Guides/blob/master/Arcam%20Figure%201.png)
 
 The most efficient parts are those specifically designed to be built using AM. The implications of unsuitable designs include:
 
@@ -47,7 +48,6 @@ A new part has to be designed to suit its purpose. Different designs and manufac
 
 In both cases the checklist (Figure 1) should help to ensure the design process considers the necessary questions.
 
-(((IMAGE)))
 
 Feature type|SLM|EBM
 ------------|---|---
