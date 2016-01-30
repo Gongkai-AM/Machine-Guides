@@ -51,6 +51,8 @@ In both cases the checklist (Figure 1) should help to ensure the design process 
 ![Figure 2]
 (https://github.com/Gongkai-AM/Machine-Guides/blob/master/Figures/Arcam%20Figure%202.png)
 
+##Comparison between SLM and EBM
+
 Feature type|SLM|EBM
 ------------|---|---
 Orientation|Upskins/verticals smoother, downskins rougher|Upskins smoother, Vertical/Downskins rougher
