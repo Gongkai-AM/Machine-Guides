@@ -1,7 +1,7 @@
 #Arcam EBM guide
 This document is meant to introduce users to Arcam EBM manufacturing. This is a living document and work in progress, and is produced under the direction of Gongkai AM.
 
-To get more info on Gongkai or submit user documentation on Arcam or other industrial additive manufacturing machines, contact [Spencer Wright](mailto:s@pencerw.com?subject=Gongkai Guides) or visit [our "How to contribute" guide.](https://github.com/Gongkai-AM/Machine-Guides/blob/master/How%20to%20contribute.md)
+**To get more info on Gongkai or submit user documentation on Arcam or other industrial additive manufacturing machines, contact [Spencer Wright](mailto:s@pencerw.com?subject=Gongkai Guides) or visit [our "How to contribute" guide.](https://github.com/Gongkai-AM/Machine-Guides/blob/master/How%20to%20contribute.md)**
 
 Special thanks for this guide goes to [Stavros Tsitsopoulos,](https://www.linkedin.com/in/stavros-tsitsopoulos-a2757114) who created the intial document.
 
