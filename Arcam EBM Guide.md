@@ -5,6 +5,8 @@ This document is meant to introduce users to Arcam EBM manufacturing. This is a 
 
 Special thanks for this guide goes to [Stavros Tsitsopoulos,](https://www.linkedin.com/in/stavros-tsitsopoulos-a2757114) who created the intial document.
 
+Gongkai AM also maintains (poorly, for the most part) a database of shops making metal AM parts. [It's located here;](https://docs.google.com/spreadsheets/d/1aptmawzeLw-v0rLpO76NPkRYCbKg2NjhfxY1fHwq2L8/edit?usp=sharing) get in touch with [Spencer](mailto:s@pencerw.com?subject=Shops database) if you'd like to contribute.
+
 #Introduction
 [Arcam AB](http://www.arcam.com/) (Sweden) is a spin-off company from Gothenburg University and was founded in 1997. Arcam is the sole machine manufacturer for EBM technology. The company offers a cost efficient metal powder bed fusion technology for production of high value (often medical and aerospace) components. 
 
