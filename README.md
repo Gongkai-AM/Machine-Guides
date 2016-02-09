@@ -1,6 +1,6 @@
 #Gongkai AM Machine Guides
 
-Gongkai AM is an open source project dedicated to advancing the field of industrial additive manufacturing. Inside this repository you'll find user guides for common and not-so-common industrial AM systems, made free for the use of the AM community.
+[Gongkai AM](http://pencerw.com/gongkai) is an open source project, founded by Spencer Wright and dedicated to advancing the field of industrial additive manufacturing. Inside this repository you'll find user guides for common and not-so-common industrial AM systems, made free for the use of the AM community.
 
 We are a loose, volunteer organization - and always encourage the involvement of others in the field. If you've got domain expertise and want to contribute, [you can get started here.](https://github.com/Gongkai-AM/Machine-Guides/blob/master/How%20to%20contribute.md) If you're a new user and find issues with clarity or style, [let us know in the Issues section.](https://github.com/Gongkai-AM/Machine-Guides/issues)
 
